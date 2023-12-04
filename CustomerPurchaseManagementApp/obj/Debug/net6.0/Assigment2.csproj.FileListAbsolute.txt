@@ -1,0 +1,15 @@
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\bin\Debug\net6.0\Assigment2.exe
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\bin\Debug\net6.0\Assigment2.deps.json
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\bin\Debug\net6.0\Assigment2.runtimeconfig.json
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\bin\Debug\net6.0\Assigment2.dll
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\bin\Debug\net6.0\Assigment2.pdb
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\obj\Debug\net6.0\Assigment2.csproj.AssemblyReference.cache
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\obj\Debug\net6.0\Assigment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\obj\Debug\net6.0\Assigment2.AssemblyInfoInputs.cache
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\obj\Debug\net6.0\Assigment2.AssemblyInfo.cs
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\obj\Debug\net6.0\Assigment2.csproj.CoreCompileInputs.cache
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\obj\Debug\net6.0\Assigment2.dll
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\obj\Debug\net6.0\refint\Assigment2.dll
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\obj\Debug\net6.0\Assigment2.pdb
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\obj\Debug\net6.0\Assigment2.genruntimeconfig.cache
+C:\Users\Niko\Source\Repos\leppiskerttu\Assigment2\Assigment2\obj\Debug\net6.0\ref\Assigment2.dll
