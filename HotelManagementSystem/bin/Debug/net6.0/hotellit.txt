@@ -1,0 +1,26 @@
+Niko hotel
+22-10-1984
+Ahventie 22-24
+5
+2
+101
+300
+Huone
+350
+NormiHuone
+201
+400
+Sviitti
+600
+HääSviitti
+2
+Matti
+Mies
+101
+2023-11-20
+3
+Pekka
+Poika
+201
+2023-13-21
+5

@@ -1,0 +1,15 @@
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\bin\Debug\net6.0\AssignmentVII.exe
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\bin\Debug\net6.0\AssignmentVII.deps.json
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\bin\Debug\net6.0\AssignmentVII.runtimeconfig.json
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\bin\Debug\net6.0\AssignmentVII.dll
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\bin\Debug\net6.0\AssignmentVII.pdb
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\obj\Debug\net6.0\AssignmentVII.csproj.AssemblyReference.cache
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\obj\Debug\net6.0\AssignmentVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\obj\Debug\net6.0\AssignmentVII.AssemblyInfoInputs.cache
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\obj\Debug\net6.0\AssignmentVII.AssemblyInfo.cs
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\obj\Debug\net6.0\AssignmentVII.csproj.CoreCompileInputs.cache
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\obj\Debug\net6.0\AssignmentVII.dll
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\obj\Debug\net6.0\refint\AssignmentVII.dll
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\obj\Debug\net6.0\AssignmentVII.pdb
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\obj\Debug\net6.0\AssignmentVII.genruntimeconfig.cache
+C:\Users\Niko\source\repos\AssignmentVII\AssignmentVII\obj\Debug\net6.0\ref\AssignmentVII.dll

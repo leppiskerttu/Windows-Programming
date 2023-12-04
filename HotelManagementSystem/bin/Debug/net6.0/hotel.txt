@@ -1,0 +1,12 @@
+Name: My Imaginary Hotel
+Construction Date: 1.1.2023 0.00.00
+Address: 123 Main Street
+Stars: 4
+
+Rooms:
+101, 300, Single, 100, Standard room with a single bed
+201, 400, Double, 150, Room with a double bed
+
+Customers:
+John Doe, 456 Oak Street, 101, 20.11.2023 0.00.00, 3
+Jane Doe, 789 Pine Street, 201, 22.11.2023 0.00.00, 4

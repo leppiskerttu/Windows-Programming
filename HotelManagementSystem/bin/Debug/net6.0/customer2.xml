@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Customer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Jane Smith</Name>
+  <Address>789 Maple St</Address>
+  <RoomNumber>201</RoomNumber>
+  <ArrivalDate>2023-11-19T16:39:48.8820354+02:00</ArrivalDate>
+  <LengthOfStay>5</LengthOfStay>
+</Customer>
