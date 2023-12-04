@@ -1,0 +1,5 @@
+C:\Users\Niko\Desktop\Uusi kansio (5)\AssigmentVIII2.exe
+C:\Users\Niko\Desktop\Uusi kansio (5)\AssigmentVIII2.dll
+C:\Users\Niko\Desktop\Uusi kansio (5)\AssigmentVIII2.deps.json
+C:\Users\Niko\Desktop\Uusi kansio (5)\AssigmentVIII2.runtimeconfig.json
+C:\Users\Niko\Desktop\Uusi kansio (5)\AssigmentVIII2.pdb
